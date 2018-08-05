@@ -2,7 +2,7 @@
 
 > A curated list of ressources regarding the **pro-feminist** Men's liberation movement, feminism, masculinity and adjacent topics.
 
-There is also a collection of ressources in German at the end.
+There is also a collection of resources in German at the end.
 
 *Everything including name and scope of this list is work in progress.*
 
