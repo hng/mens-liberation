@@ -1,6 +1,6 @@
 # Men's Liberation List
 
-A curated list of ressources regarding the **pro-feminist** Men's liberation movement, feminism, masculinity and adjacent topics.
+> A curated list of ressources regarding the **pro-feminist** Men's liberation movement, feminism, masculinity and adjacent topics.
 
 There is also a collection of ressources in German at the end.
 
@@ -18,17 +18,17 @@ There is also a collection of ressources in German at the end.
 
 ## Books
 
-* All About Love by bell hooks
-* The Will To Change by bell hooks
-* Boys dont cry by Jack Urwin
+* [All About Love: New Visions](https://www.goodreads.com/book/show/17607.All_About_Love) by bell hooks
+* [The Will to Change: Men, Masculinity, and Love](https://www.goodreads.com/book/show/17601.The_Will_to_Change) by bell hooks
+* [Man Up: Surviving Modern Masculinity](https://www.goodreads.com/book/show/29611402-man-up) by Jack Urwin
 
 ## Blogs and Websites
-* [We Hunted the Mammoth](http://www.wehuntedthemammoth.com): We Hunted the Mammoth tracks and mocks the white male rage underlying the rise of Trump and Trumpism. Main topic currently is the "incel movement".
-* [XY online](http://xyonline.net): XY is a website focused on men, masculinities, and gender politics. XY is a space for the exploration of issues of gender and sexuality, the daily issues of men’s and women’s lives, and practical discussion of personal and social change.
+* [We Hunted the Mammoth](http://www.wehuntedthemammoth.com) - We Hunted the Mammoth tracks and mocks the white male rage underlying the rise of Trump and Trumpism. Main topic currently is the "incel movement".
+* [XY online](http://xyonline.net) - XY is a website focused on men, masculinities, and gender politics. XY is a space for the exploration of issues of gender and sexuality, the daily issues of men’s and women’s lives, and practical discussion of personal and social change.
 
 ## Podcasts
-* [MASKulinity Podcast](http://maskulinitypodcast.libsyn.com): Listen week to week as Samantha, Remoy, et. al., invite (cis/trans/hetero/gay) men to take off the MASK that is masculinity, and do so from distinct yet connected perspectives.
-* [Modern Manhood](https://modernmanhood.org): Social worker German Villegas gives space to the lives and viewpoints of many different male voices talking about their own masculinity.
+* [MASKulinity Podcast](http://maskulinitypodcast.libsyn.com) - Listen week to week as Samantha, Remoy, et. al., invite (cis/trans/hetero/gay) men to take off the MASK that is masculinity, and do so from distinct yet connected perspectives.
+* [Modern Manhood](https://modernmanhood.org) - Social worker German Villegas gives space to the lives and viewpoints of many different male voices talking about their own masculinity.
 
 ## Reddit
 * [r/MensLib/](https://www.reddit.com/r/MensLib/)
@@ -43,7 +43,7 @@ There is also a collection of ressources in German at the end.
 
 ## Movies
 
-* [The Mask You Live In](http://therepresentationproject.org/film/the-mask-you-live-in/) [on netflix]: The Mask You Live In follows boys and young men as they struggle to stay true to themselves while negotiating America’s narrow definition of masculinity.
+* [The Mask You Live In](http://therepresentationproject.org/film/the-mask-you-live-in/) [on netflix] - The Mask You Live In follows boys and young men as they struggle to stay true to themselves while negotiating America’s narrow definition of masculinity.
 
 ## Quotes
 „In patriarchal society men who want to break with domination can best begin the practice of love by being giving, by being generous.“
@@ -59,16 +59,16 @@ There is also a collection of ressources in German at the end.
  – bell hooks in All About Love
 
 ## Deutsch
-* [Kritische Männlichkeit?!](http://maennerrundbrief.blogsport.de/linkliste/): Bundesweite Vernetzungswebsite für kritische Männlichkeiten/Männer-Gruppen
+* [Kritische Männlichkeit?!](http://maennerrundbrief.blogsport.de/linkliste/) - Bundesweite Vernetzungswebsite für kritische Männlichkeiten/Männer-Gruppen
 	* [Leseecke Kritische Männlichkeit](https://kritmaen.noblogs.org/leseecke/)
-* [Der profeministische Männerrundbrief](http://maennerrundbrief.blogsport.de): Alle 18 Ausgaben des Männerrundbriefs von 1993-2002, dieser wurde von linken Männern herausgegeben und beschäftigte sich u.a. mit kritischer Männlichkeit. / The Männerrundbrief was published by left-wing radical men in Germany in 1993 for the first time. On the one hand, the starting point was an increasing and stronger debate about sexism, heterosexism, patriarchal structures, concrete accusations of rape or outings of rapists within radical communities. On the other hand, the steady growth of the small men’s movement contributed to the emergence of the newsletter. 
+* [Der profeministische Männerrundbrief](http://maennerrundbrief.blogsport.de) - Alle 18 Ausgaben des Männerrundbriefs von 1993-2002, dieser wurde von linken Männern herausgegeben und beschäftigte sich u.a. mit kritischer Männlichkeit. / The Männerrundbrief was published by left-wing radical men in Germany in 1993 for the first time. On the one hand, the starting point was an increasing and stronger debate about sexism, heterosexism, patriarchal structures, concrete accusations of rape or outings of rapists within radical communities. On the other hand, the steady growth of the small men’s movement contributed to the emergence of the newsletter. 
 	* [Linkliste](http://maennerrundbrief.blogsport.de/linkliste/) des Blogs
-* [Papiertieger: Online-Männerarchiv](http://www.archivtiger.de/maennerarchiv.html): *"Das vermutlich umfangsreichste Archiv zur kritischen Auseinandersetzung mit Männlichkeit in der radikalen Linken in der Bundesrepublik findet sich beim Papiertiger."* (Linkliste s.o.)
+* [Papiertieger: Online-Männerarchiv](http://www.archivtiger.de/maennerarchiv.html) - *"Das vermutlich umfangsreichste Archiv zur kritischen Auseinandersetzung mit Männlichkeit in der radikalen Linken in der Bundesrepublik findet sich beim Papiertiger."* (Linkliste s.o.)
 
 ### Bücher
-* Untenrum frei von Margarete Stokowski
-* Boys dont cry von Jack Urwin (Übersetzung von Elvira Willems, Nautilus)
+* [Untenrum frei](https://www.goodreads.com/book/show/30258435-untenrum-frei) von Margarete Stokowski
+* [Boys don’t cry: Identität, Gefühl und Männlichkeit](https://www.goodreads.com/book/show/34375349-boys-don-t-cry) von Jack Urwin (Übersetzung von Elvira Willems, Nautilus)
 
 ### Workshop Angebote
 
-* [queer_topia\*](http://queertopia.blogsport.de) bieten Workshops u.a. zu kritischen Männlich\*keiten an.
+* [queer_topia\*](http://queertopia.blogsport.de) - Bieten Workshops u.a. zu kritischen Männlich\*keiten an.
