@@ -13,6 +13,7 @@ There is also a collection of resources in German at the end.
 * [On Male Liberation](https://www.academia.edu/33743560/On_Male_Liberation) by Jack Sawyer (1970)
 * [From men's liberation to men’s rights: angry white men in the US](https://www.opendemocracy.net/5050/michael-kimmel/from-men%27s-liberation-to-men’s-rights-angry-white-men-in-us) by Michael Kimmel
 * [A Gentlemen’s Guide To Rape Culture](https://medium.com/human-parts/a-gentlemens-guide-to-rape-culture-7fc86c50dc4c)
+* [The Opposite of Rape Culture is Nurturance Culture](https://norasamaran.com/2016/02/11/the-opposite-of-rape-culture-is-nurturance-culture-2/)
 * [The gender wars of household chores: a feminist comic](https://www.theguardian.com/world/2017/may/26/gender-wars-household-chores-comic)
 * [What Do We Mean When We Say “Toxic Masculinity?”](https://thenib.com/toxic-masculinity) (Comic)
 
@@ -21,6 +22,7 @@ There is also a collection of resources in German at the end.
 * [All About Love: New Visions](https://www.goodreads.com/book/show/17607.All_About_Love) by bell hooks
 * [The Will to Change: Men, Masculinity, and Love](https://www.goodreads.com/book/show/17601.The_Will_to_Change) by bell hooks
 * [Man Up: Surviving Modern Masculinity](https://www.goodreads.com/book/show/29611402-man-up) by Jack Urwin
+* [Masculinities](https://www.goodreads.com/book/show/228510.Masculinities?ac=1&from_search=true) by Raewyn W. Connell
 
 ## Blogs and Websites
 * [We Hunted the Mammoth](http://www.wehuntedthemammoth.com) - We Hunted the Mammoth tracks and mocks the white male rage underlying the rise of Trump and Trumpism. Main topic currently is the "incel movement".
@@ -40,10 +42,12 @@ There is also a collection of resources in German at the end.
 * [Pop Culture Detective](https://www.youtube.com/user/rebelliouspixels/featured)
   * [The Complicity of Geek Masculinity on the Big Bang Theory](https://www.youtube.com/watch?v=7L7NRONADJ4&t=8s)
 * [Don't Drink The Toxic Masculinity](https://www.youtube.com/watch?v=dv4nhgPV0Hc) (Newsbroke)
+* [We should all be feminists](https://www.youtube.com/watch?v=hg3umXU_qWc) - TED talk by Chimamanda Ngozi Adichie
 
 ## Movies
 
 * [The Mask You Live In](http://therepresentationproject.org/film/the-mask-you-live-in/) [on netflix] - The Mask You Live In follows boys and young men as they struggle to stay true to themselves while negotiating America’s narrow definition of masculinity.
+* [The Feminist in Cellblock Y](https://youtu.be/JYxTzsabkH8) - *"The Feminist on Cellblock Y," a documentary produced by filmmaker Contessa Gayles, follows the now 25-year-old Reseda and his fellow prison mates as they participate in an inmate rehabilitation program centered around feminist literature.*
 
 ## Quotes
 „In patriarchal society men who want to break with domination can best begin the practice of love by being giving, by being generous.“
@@ -58,7 +62,7 @@ There is also a collection of resources in German at the end.
 „Yet the vast majority of males in our society are convinced that their erotic longing indicates who they should, and can, love. Led by their penis, seduced by erotic desire, they often end up in relationships with partners with whom they share no common interests or values.“
  – bell hooks in All About Love
 
-## Deutsch
+## Deutsch / German
 * [Kritische Männlichkeit?!](http://maennerrundbrief.blogsport.de/linkliste/) - Bundesweite Vernetzungswebsite für kritische Männlichkeiten/Männer-Gruppen
 	* [Leseecke Kritische Männlichkeit](https://kritmaen.noblogs.org/leseecke/)
 * [Der profeministische Männerrundbrief](http://maennerrundbrief.blogsport.de) - Alle 18 Ausgaben des Männerrundbriefs von 1993-2002, dieser wurde von linken Männern herausgegeben und beschäftigte sich u.a. mit kritischer Männlichkeit. / The Männerrundbrief was published by left-wing radical men in Germany in 1993 for the first time. On the one hand, the starting point was an increasing and stronger debate about sexism, heterosexism, patriarchal structures, concrete accusations of rape or outings of rapists within radical communities. On the other hand, the steady growth of the small men’s movement contributed to the emergence of the newsletter. 
@@ -68,6 +72,7 @@ There is also a collection of resources in German at the end.
 ### Bücher
 * [Untenrum frei](https://www.goodreads.com/book/show/30258435-untenrum-frei) von Margarete Stokowski
 * [Boys don’t cry: Identität, Gefühl und Männlichkeit](https://www.goodreads.com/book/show/34375349-boys-don-t-cry) von Jack Urwin (Übersetzung von Elvira Willems, Nautilus)
+* [Vergewaltigung: Aspekte eines Verbrechens](https://www.goodreads.com/book/show/31626648-vergewaltigung?ac=1&from_search=true) von Mithu M. Sanyal
 
 ### Workshop Angebote
 
