@@ -1,5 +1,7 @@
 # Men's Liberation List
 
+<img src="https://i.imgur.com/ccShytv.png" width="400" alt="because neither of us can do it alone" style="float:right;"/>
+
 > A curated list of ressources regarding the **pro-feminist** Men's liberation movement, feminism, masculinity and adjacent topics.
 
 There is also a collection of resources in German at the end.
@@ -7,6 +9,20 @@ There is also a collection of resources in German at the end.
 *Everything including name and scope of this list is work in progress.*
 
 *Contributions to this list are very welcome. Just clone this repo, edit this file (README.md) or edit it directly (open it and click on the pencil icon on the upper right) and create a pull request.*
+
+
+##### Contents
+
+* [Articles](#articles)
+* [Books](#books)
+* [Blogs and Websites](#blogs-and-websites)
+* [Podcasts](#podcasts)
+* [Subreddits](#subreddits)
+* [Videos](#videos)
+* [Movies](#movies)
+* [Quotes](#quotes)
+* [Deutsch / German](#deutsch--german)
+	* [Bücher](#bücher) 
 
 ## Articles
 
@@ -32,7 +48,7 @@ There is also a collection of resources in German at the end.
 * [MASKulinity Podcast](http://maskulinitypodcast.libsyn.com) - Listen week to week as Samantha, Remoy, et. al., invite (cis/trans/hetero/gay) men to take off the MASK that is masculinity, and do so from distinct yet connected perspectives.
 * [Modern Manhood](https://modernmanhood.org) - Social worker German Villegas gives space to the lives and viewpoints of many different male voices talking about their own masculinity.
 
-## Reddit
+## Subreddits
 * [r/MensLib/](https://www.reddit.com/r/MensLib/)
 	* [MensLib's Official Position on the Men's Rights Movement, Feminism, and Other Related Topics](https://www.reddit.com/r/MensLib/comments/93oyty/menslibs_official_position_on_the_mens_rights/)
 * [r/feminismformen/](https://www.reddit.com/r/feminismformen/)
@@ -50,17 +66,17 @@ There is also a collection of resources in German at the end.
 * [The Feminist in Cellblock Y](https://youtu.be/JYxTzsabkH8) - *"The Feminist on Cellblock Y," a documentary produced by filmmaker Contessa Gayles, follows the now 25-year-old Reseda and his fellow prison mates as they participate in an inmate rehabilitation program centered around feminist literature.*
 
 ## Quotes
-„In patriarchal society men who want to break with domination can best begin the practice of love by being giving, by being generous.“
- – bell hooks in All About Love
+> „Feminist masculinity offers men a way to reconnect with selfhood, uncovering the essential goodness of maleness and allowing everyone, male and female, to find glory in loving manhood.“ – bell hooks in The Will to Change
+
+> „Patriarchal masculinity insists that real men must prove their manhood by idealizing aloneness and disconnection. Feminist masculinity tells men that they become more real through the act of connecting with others, through building community.“ – bell hooks in The Will to Change
+
+> „In patriarchal society men who want to break with domination can best begin the practice of love by being giving, by being generous.“ – bell hooks in All About Love
  
-„If men were socialized to desire love as much as they are taught to desire sex, we would see a cultural revolution.“
- – bell hooks in All About Love
+> „If men were socialized to desire love as much as they are taught to desire sex, we would see a cultural revolution.“ – bell hooks in All About Love
  
-„Most males are not told that they need to be upheld by love every day. Sexist thinking usually prevents them from acknowledging their longing for love or their acceptance of a female as their guide on love’s path.“
- – bell hooks in All About Love
+> „Most males are not told that they need to be upheld by love every day. Sexist thinking usually prevents them from acknowledging their longing for love or their acceptance of a female as their guide on love’s path.“ – bell hooks in All About Love
  
-„Yet the vast majority of males in our society are convinced that their erotic longing indicates who they should, and can, love. Led by their penis, seduced by erotic desire, they often end up in relationships with partners with whom they share no common interests or values.“
- – bell hooks in All About Love
+> „Yet the vast majority of males in our society are convinced that their erotic longing indicates who they should, and can, love. Led by their penis, seduced by erotic desire, they often end up in relationships with partners with whom they share no common interests or values.“ – bell hooks in All About Love
 
 ## Deutsch / German
 * [Kritische Männlichkeit?!](http://maennerrundbrief.blogsport.de/linkliste/) - Bundesweite Vernetzungswebsite für kritische Männlichkeiten/Männer-Gruppen
@@ -68,12 +84,9 @@ There is also a collection of resources in German at the end.
 * [Der profeministische Männerrundbrief](http://maennerrundbrief.blogsport.de) - Alle 18 Ausgaben des Männerrundbriefs von 1993-2002, dieser wurde von linken Männern herausgegeben und beschäftigte sich u.a. mit kritischer Männlichkeit. / The Männerrundbrief was published by left-wing radical men in Germany in 1993 for the first time. On the one hand, the starting point was an increasing and stronger debate about sexism, heterosexism, patriarchal structures, concrete accusations of rape or outings of rapists within radical communities. On the other hand, the steady growth of the small men’s movement contributed to the emergence of the newsletter. 
 	* [Linkliste](http://maennerrundbrief.blogsport.de/linkliste/) des Blogs
 * [Papiertieger: Online-Männerarchiv](http://www.archivtiger.de/maennerarchiv.html) - *"Das vermutlich umfangsreichste Archiv zur kritischen Auseinandersetzung mit Männlichkeit in der radikalen Linken in der Bundesrepublik findet sich beim Papiertiger."* (Linkliste s.o.)
+* [queer_topia\*](http://queertopia.blogsport.de) - Bieten Workshops u.a. zu kritischen Männlich\*keiten an.
 
 ### Bücher
 * [Untenrum frei](https://www.goodreads.com/book/show/30258435-untenrum-frei) von Margarete Stokowski
 * [Boys don’t cry: Identität, Gefühl und Männlichkeit](https://www.goodreads.com/book/show/34375349-boys-don-t-cry) von Jack Urwin (Übersetzung von Elvira Willems, Nautilus)
 * [Vergewaltigung: Aspekte eines Verbrechens](https://www.goodreads.com/book/show/31626648-vergewaltigung?ac=1&from_search=true) von Mithu M. Sanyal
-
-### Workshop Angebote
-
-* [queer_topia\*](http://queertopia.blogsport.de) - Bieten Workshops u.a. zu kritischen Männlich\*keiten an.
