@@ -39,6 +39,7 @@ There is also a collection of resources in German at the end.
 * [The Will to Change: Men, Masculinity, and Love](https://www.goodreads.com/book/show/17601.The_Will_to_Change) by bell hooks
 * [Man Up: Surviving Modern Masculinity](https://www.goodreads.com/book/show/29611402-man-up) by Jack Urwin
 * [Masculinities](https://www.goodreads.com/book/show/228510.Masculinities?ac=1&from_search=true) by Raewyn W. Connell
+* [For the Love of Men: A New Vision for Mindful Masculinity](https://www.goodreads.com/book/show/43263540-for-the-love-of-men) by Liz Plank
 
 ## Blogs and Websites
 * [We Hunted the Mammoth](http://www.wehuntedthemammoth.com) - We Hunted the Mammoth tracks and mocks the white male rage underlying the rise of Trump and Trumpism. Main topic currently is the "incel movement".
