@@ -86,6 +86,7 @@ There is also a collection of resources in German at the end.
 	* [Linkliste](http://maennerrundbrief.blogsport.de/linkliste/) des Blogs
 * [Papiertieger: Online-Männerarchiv](http://www.archivtiger.de/maennerarchiv.html) - *"Das vermutlich umfangsreichste Archiv zur kritischen Auseinandersetzung mit Männlichkeit in der radikalen Linken in der Bundesrepublik findet sich beim Papiertiger."* (Linkliste s.o.)
 * [queer_topia\*](http://queertopia.blogsport.de) - Bieten Workshops u.a. zu kritischen Männlich\*keiten an.
+* [Vortrag/Workshop Kritische Männlichkeit](https://github.com/hng/talk-kritische-maennlichkeit) – Von [hng](https://github.com/hng) und [fap](https://github.com/fapdash) durchgeführt auf dem 36c3
 
 ### Bücher
 * [Untenrum frei](https://www.goodreads.com/book/show/30258435-untenrum-frei) von Margarete Stokowski
