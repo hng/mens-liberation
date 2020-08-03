@@ -61,6 +61,11 @@ There is also a collection of resources in German at the end.
   * [The Complicity of Geek Masculinity on the Big Bang Theory](https://www.youtube.com/watch?v=7L7NRONADJ4&t=8s)
 * [Don't Drink The Toxic Masculinity](https://www.youtube.com/watch?v=dv4nhgPV0Hc) (Newsbroke)
 * [We should all be feminists](https://www.youtube.com/watch?v=hg3umXU_qWc) - TED talk by Chimamanda Ngozi Adichie
+* Wheel of Consent (Betty Martin)
+  * [How to play the 3-Minute Game](https://www.youtube.com/watch?v=_KCzpNBNbVM)
+  * [The Wheel of Consent](https://www.youtube.com/watch?v=auokDp_EA80)
+  * [All Course Videos](https://bettymartin.org/videos/)
+  * [Wheel of Consent and 3-minute game hand-outs](https://bettymartin.org/download-wheel/), great and concise references
 
 ## Movies
 
