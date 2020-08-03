@@ -27,6 +27,7 @@ There is also a collection of resources in German at the end.
 ## Articles
 
 * [On Male Liberation](https://www.academia.edu/33743560/On_Male_Liberation) by Jack Sawyer (1970)
+* [Understanding Patriarchy](https://imaginenoborders.org/pdf/zines/UnderstandingPatriarchy.pdf) by bell hooks
 * [From men's liberation to men’s rights: angry white men in the US](https://www.opendemocracy.net/5050/michael-kimmel/from-men%27s-liberation-to-men’s-rights-angry-white-men-in-us) by Michael Kimmel
 * [A Gentlemen’s Guide To Rape Culture](https://medium.com/human-parts/a-gentlemens-guide-to-rape-culture-7fc86c50dc4c)
 * [The Opposite of Rape Culture is Nurturance Culture](https://norasamaran.com/2016/02/11/the-opposite-of-rape-culture-is-nurturance-culture-2/)
