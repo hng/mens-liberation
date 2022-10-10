@@ -49,7 +49,7 @@ There is also a collection of resources in German at the end.
 
 ## Podcasts
 * [MASKulinity Podcast](http://maskulinitypodcast.libsyn.com) - Listen week to week as Samantha, Remoy, et. al., invite (cis/trans/hetero/gay) men to take off the MASK that is masculinity, and do so from distinct yet connected perspectives.
-* [Modern Manhood](https://modernmanhood.org) - Social worker German Villegas gives space to the lives and viewpoints of many different male voices talking about their own masculinity.
+* [Modern Manhood](https://modernmanhood.simplecast.com) - Social worker German Villegas gives space to the lives and viewpoints of many different male voices talking about their own masculinity.
 
 ## Subreddits
 * [r/MensLib/](https://www.reddit.com/r/MensLib/)
