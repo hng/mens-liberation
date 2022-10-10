@@ -20,6 +20,7 @@ There is also a collection of resources in German at the end.
 * [Subreddits](#subreddits)
 * [Videos](#videos)
 * [Movies](#movies)
+* [Organizations](#organizations)
 * [Quotes](#quotes)
 * [Deutsch / German](#deutsch--german)
 	* [Bücher](#bücher) 
@@ -71,6 +72,11 @@ There is also a collection of resources in German at the end.
 
 * [The Mask You Live In](http://therepresentationproject.org/film/the-mask-you-live-in/) [on netflix] - The Mask You Live In follows boys and young men as they struggle to stay true to themselves while negotiating America’s narrow definition of masculinity.
 * [The Feminist in Cellblock Y](https://youtu.be/JYxTzsabkH8) - *"The Feminist on Cellblock Y," a documentary produced by filmmaker Contessa Gayles, follows the now 25-year-old Reseda and his fellow prison mates as they participate in an inmate rehabilitation program centered around feminist literature.*
+
+## Organizations
+
+* [Next Gen Men](https://www.nextgenmen.ca) (CA) - Next Gen Men is a small-but-mighty Canadian nonprofit whose work is dedicated to one really ambitious thing—to change how the world sees, acts and thinks about masculinity.
+* [MÄN](https://mfj.se/) (SE) - MÄN is a Swedish member based non-profit organisation. Since 1993 we work to advance gender equality, combat men's violence and redefine masculinity. We view the world through a feminist lens.
 
 ## Quotes
 > „Feminist masculinity offers men a way to reconnect with selfhood, uncovering the essential goodness of maleness and allowing everyone, male and female, to find glory in loving manhood.“ – bell hooks in The Will to Change
